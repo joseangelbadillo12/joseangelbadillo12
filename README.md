@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm José</h1>
-<h3 align="center">A senior Software Engineering Student - Cloud Engineer and DevOps Engineer in progress</h3>
+<h3 align="center">A senior Software Engineering Student - Cloud Engineer in progress</h3>
 
-- 🔭 I’m currently working at **Apli Jobs**
+- 🔭 I’m currently working at [Apli Jobs](apli.jobs)
 
 - 🌱 I’m currently learning **AWS and Terraform**
 
