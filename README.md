@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working at [Apli Jobs](apli.jobs)
 
-- 🌱 I’m currently learning **AWS, Terraform, Jenkins, Kubernetes, and more**
+- 🌱 I’m currently enhancing my abilities on: **AWS, Terraform, Jenkins, Kubernetes, and more**
 
 - 📫 How to reach me **jose.badillo12@gmail.com**
 
