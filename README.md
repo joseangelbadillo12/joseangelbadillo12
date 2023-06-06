@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm José</h1>
-<h3 align="center">A senior Software Engineering Student - DevOps Engineer in progress</h3>
+<h3 align="center"> Software Engineer - DevOps Engineer in progress...</h3>
 
 - 🔭 I’m currently working at [Apli Jobs](apli.jobs)
 
-- 🌱 I’m currently enhancing my abilities on: **AWS, Terraform, Jenkins, Kubernetes, and more**
+- 🌱 I’m currently enhancing my abilities on: **AWS, Terraform, Jenkins, Docker, and more**
 
 - 📫 How to reach me **jose.badillo12@gmail.com**
 
