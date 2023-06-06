@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm José</h1>
-<h3 align="center"> Software Engineer - DevOps Engineer in progress...</h3>
+<h3 align="center"> Software Engineer - SRE in progress...</h3>
 
 - 🔭 I’m currently working at [Apli Jobs](apli.jobs)
 
