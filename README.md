@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm José</h1>
-<h3 align="center"> Platform Engineer - SRE in progress...</h3>
+<h3 align="center"> Software and Platform Engineer </h3>
 
-- 🔭 I’m currently working at [Apli Jobs](apli.jobs)
+- 🔭 I’m currently working at [Bullground](bullground.mx)
 
-- 🌱 I’m currently enhancing my abilities on: **AWS, Azure, Terraform, Jenkins, Docker, and more**
+- 🌱 I’m currently enhancing my abilities on: **AWS, Azure, Terraform, Docker, Node.js, Python, and more**
 
 - 📫 How to reach me **jose.badillo12@gmail.com**
 
