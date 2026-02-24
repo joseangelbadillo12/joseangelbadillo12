@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm José</h1>
 <h3 align="center"> Software and Platform Engineer </h3>
 
-- 🔭 I’m currently working at [Bullground](bullground.mx)
+- 🔭 I’m currently working at [Apli by iCIMS](apli.jobs)
 
 - 🌱 I’m currently enhancing my abilities on: **AWS, Azure, Terraform, Docker, Node.js, Python, and more**
 
